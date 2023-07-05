@@ -1,0 +1,17 @@
+{
+    "python.linting.pylintArgs": [
+        "--generate-members"
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "code-runner.runInTerminal": true,
+    "files.autoSave": "afterDelay",
+    "python.autoComplete.addBrackets": true,
+    "python.analysis.completeFunctionParens": true,
+}
